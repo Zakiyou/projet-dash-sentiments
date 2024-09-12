@@ -73,11 +73,19 @@ pip install -r requirements.txt
 Le fichier `requirements.txt` doit contenir les bibliothèques suivantes :
 
 textblob_fr
+
 nltk
+
 spacy
+
 plotly
+
 matplotlib
+
 seaborn
+
 dash
+
 dash_bootstrap_components
+
 pandas
