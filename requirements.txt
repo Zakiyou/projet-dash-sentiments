@@ -1,0 +1,9 @@
+textblob_fr
+nltk
+spacy
+plotly
+matplotlib
+seaborn
+dash
+dash_bootstrap_components
+pandas
